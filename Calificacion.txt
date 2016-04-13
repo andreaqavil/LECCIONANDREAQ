@@ -1,0 +1,11 @@
+Detalle Calificacion
+Requisitos Funcionales (5 Puntos): 1.5 Puntos. No funciona, veo que tiene arreglo de objetos y algunas funciones por eso
+Errores Manejados o no tiene en consola (2 Puntos): 0.5 Puntos. Tiene errores de consola. Si intento manejar errores de ingreso por teclado mediante validacion pero no se pudo probar.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 0.5 Puntos. Algunas funciones estan bien definidas, otras estan interesantes pero las vi en el codigo de Baque miraba, por eso le pongo 0.5. Cogido mal identado.
+Comentarios (1 Punto): 0 Puntos. No tiene comentarios.
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 3 Puntos
+
+Comentarios Profesor:
+Tiene Funcionalidad similar a Andrea Baque y Shirley Miraba. -5 Puntos.
+Su codigo no funciona. Algunas partes tienen sentido
